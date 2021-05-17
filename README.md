@@ -2,6 +2,6 @@
 
 ### Plan
 - [x] Binary tree
-- [ ] Linked list
+- [x] Linked list
 - [ ] Double link list
 - [ ] Hash map
