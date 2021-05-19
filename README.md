@@ -4,4 +4,7 @@
 - [x] Binary tree
 - [x] Linked list
 - [x] Double link list
-- [ ] Hash map
+- [x] Hash map (speed test)
+- [ ] ctf (bonus)
+
+to be continued.... =)
